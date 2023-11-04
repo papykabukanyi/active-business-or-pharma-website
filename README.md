@@ -1,5 +1,5 @@
-# Python Starter
+# Pro business website - pharma website
 
-Quickly get started with [Python](https://www.python.org/) using this starter! 
+quict template created by KBKNY. 
 
-- If you want to upgrade Python, you can change the image in the [Dockerfile](./.codesandbox/Dockerfile).
+- If you want to use these templates please feel free to do so.
